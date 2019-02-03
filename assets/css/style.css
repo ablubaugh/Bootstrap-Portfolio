@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+  
+main{
+    margin: 80px;
+}
+  
+.block{
+    background-color: #ffffff
+}
+  
+  
+  #logo {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    background: #4aaaa5;
+  }
+  
+  .navbar {
+    background: white;
+    border: none;
+  }
+  
+  #images{
+      text-align: center;
+  }
+  
+
+  
+  .footer {
+    background-color: #666;
+    position: absolute;
+    width: 100%;
+  }
+
+  h1{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: 700;
+      color: #4aaaa5;
+  }
+  
+  
+ #auth-image{
+     width: 200px;
+     float: left;
+ }
+  
+ .form-control {
+    min-width: 100%;
+    max-width: 100%;
+  }
+  
+  .submit-btn {
+    font-size: 16px;
+    color: #fff;
+    background-color: #4aaaa5;
+    border: 0;
+  }
+  
